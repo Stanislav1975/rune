@@ -7,10 +7,10 @@
   resolved "https://registry.yarnpkg.com/@hotg-ai/rune/-/rune-0.11.3.tgz#1d6eb1ab7fe38861a9b86039c81bfb0711b19d50"
   integrity sha512-pagp9gzbtfHs89FVD75k4GLnOy30vWhqxuqxmRqxvBDuk8wa4H0xjx+wsXf2bfCWCgGflwnNJ37XsM9Qz9lgww==
 
-"@tensorflow/tfjs-converter@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-converter/-/tfjs-converter-2.0.0.tgz#6242c618202f04d88fa308d68a2dfcdd81ec020c"
-  integrity sha512-IFjjx2qe7M2UwwYJvCm2+OgpC+kooCWEjC8mOOoFV/o+g9/Q0RMohRDvffiqUuYx5Usi/vbjhlUBccsy/MhE3g==
+"@tensorflow/tfjs-converter@4.20.0":
+  version "4.20.0"
+  resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-converter/-/tfjs-converter-4.20.0.tgz#e23549330e0bb693db9373efa892e695fd48186b"
+  integrity sha512-UJ2ntQ1TNtVHB5qGMwB0j306bs3KH1E1HKJ9Dxvrc6PUaivOV+CPKqmbidOFG5LylXeRC36JBdhe+gVT2nFHNw==
 
 "@tensorflow/tfjs-core@2.0.0":
   version "2.0.0"
