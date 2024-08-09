@@ -563,10 +563,15 @@
     "@types/node-fetch" "^2.1.2"
     node-fetch "~2.6.1"
 
-"@tensorflow/tfjs-layers@3.13.0", "@tensorflow/tfjs-layers@^3.12.0":
+"@tensorflow/tfjs-layers@3.13.0":
   version "3.13.0"
   resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-layers/-/tfjs-layers-3.13.0.tgz#bc311664eba4f46802ffe3b05bea7df795cae10d"
   integrity sha512-kTWJ/+9fbNCMDA9iQjDMYHmWivsiWz8CKNSOZdeCW7tiBwF1EiREBVQXMk1JI11ngQa8f+rYSLs7rkhp3SYl5Q==
+
+"@tensorflow/tfjs-layers@^4.20.0":
+  version "4.20.0"
+  resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-layers/-/tfjs-layers-4.20.0.tgz#7d00dc3c3cea1ce8e7df67480e2738ab71a0016f"
+  integrity sha512-SCHZH29Vyw+Y9eoaJHiaNo6yqM9vD3XCKncoczonRRywejm3FFqddg1AuWAfSE9XoNPE21o9PsknvKLl/Uh+Cg==
 
 "@tensorflow/tfjs-node@^3.12.0":
   version "3.13.0"
