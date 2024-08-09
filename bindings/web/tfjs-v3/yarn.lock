@@ -298,10 +298,10 @@
   dependencies:
     "@cspotcode/source-map-consumer" "0.8.0"
 
-"@hotg-ai/rune@^0.11.0":
-  version "0.11.3"
-  resolved "https://registry.yarnpkg.com/@hotg-ai/rune/-/rune-0.11.3.tgz#1d6eb1ab7fe38861a9b86039c81bfb0711b19d50"
-  integrity sha512-pagp9gzbtfHs89FVD75k4GLnOy30vWhqxuqxmRqxvBDuk8wa4H0xjx+wsXf2bfCWCgGflwnNJ37XsM9Qz9lgww==
+"@hotg-ai/rune@^0.11.8":
+  version "0.11.8"
+  resolved "https://registry.yarnpkg.com/@hotg-ai/rune/-/rune-0.11.8.tgz#b0bf6399229d6e9a70700cc05442f3873b5cb88b"
+  integrity sha512-cr3mNiwMKWQSFr9wDbW4+Ka/2wUsk28SAz2bKjpAlp6fk+zbwkuYPj9TCJVAOfYUEd6z5s9FrpJSR9HRtqAa3Q==
 
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.1.0"
