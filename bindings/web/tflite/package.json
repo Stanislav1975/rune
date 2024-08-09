@@ -14,7 +14,7 @@
     "release": "tsc && cd dist && cp ../*.md . && sed 's/\"private\": true,/\"private\": false,/g' ../package.json > package.json && yarn publish"
   },
   "dependencies": {
-    "@hotg-ai/rune": "^0.11.3",
+    "@hotg-ai/rune": "^0.11.8",
     "@tensorflow/tfjs-core": "^3.13.0",
     "@tensorflow/tfjs-tflite": "^0.0.1-alpha.8"
   },
